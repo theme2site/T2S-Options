@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en_US\n"
+"X-Domain: t2s-options\n"
+
+#. Plugin Name of the plugin
+msgid "T2S Options"
+msgstr ""
+
+#. Description of the plugin
+msgid "Provide parameter configuration for your website."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add Option"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Field Name"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "PHP Code"
+msgstr ""
+
+msgid "Shortcode"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Single Option"
+msgstr ""
+
+msgid "The same field can retrieve an array."
+msgstr ""
+
+msgid "Adding a second parameter could obtaining the title."
+msgstr ""
