@@ -231,7 +231,7 @@ function t2so_options_adm()
                                     <div style="overflow:auto;"><?php echo $option->value; ?></div>
                                 </td>
                                 <td>
-                                    <div style="overflow:auto;"><code>echo t2s_option('<?php echo $option->name; ?>');</code></div>
+                                    <div style="overflow:auto;"><code><?php echo t2s_option('<?php echo $option->name; ?>'); ?></code></div>
                                 </td>
                                 <td>
                                     <div style="overflow:auto;"><code>[t2s_option field="<?php echo $option->name; ?>"]</code></div>
